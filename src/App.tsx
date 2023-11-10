@@ -10,7 +10,7 @@ function App() {
                 <p>
                     Leonardo Vásquez - Mi logo no gira.
                 </p>
-                <p>Juanito</p>
+                <p>Pablo Gatica Pinto</p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
